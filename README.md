@@ -26,7 +26,7 @@
 
 ## ⸜(｡˃ ᵕ ˂)⸝ ♡ Sobre este repo
 
-> ✧ Mi configuración de Arch Linux, armada con mucho amor ✧
+> ✧ Mi configuración de Arch Linux, no soy experta en arch, pero queria experimentar con hacer un readme muy lindo y asterik, este repo me ayuda a tener las aplicaciones que uso en arch, para no tener que instalarlas desde cero cada que reinstalo arch en dado caso -.-. Aun asi espero q te guste ✧
 > (ᵔᴥᵔ) de esas cosas que uno ajusta "solo un ratito más"... (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)
 
 Basada en [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) con mis propios ajustes ٩(◕‿◕)۶
