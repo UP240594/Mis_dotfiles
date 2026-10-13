@@ -1,0 +1,11 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "SynthWave '84",
+    "git.enableSmartCommit": true,
+    "editor.cursorStyle": "block",
+    "git.autofetch": true,
+    "terminal.integrated.initialHint": false,
+    "chat.viewSessions.orientation": "stacked"
+,
+  "material-code.primaryColor": "#5C28FA"
+}

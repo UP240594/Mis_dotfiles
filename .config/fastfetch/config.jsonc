@@ -1,0 +1,48 @@
+{
+    "logo": {
+        "type": "kitty-direct",
+        "source": "/home/oli/.config/fastfetch/logos/*.png",
+        "width": 50,
+        "height": 25,
+        "padding": { "top": 2, "left": 3 }
+    },
+    "display": {
+        "separator": "  ",
+        "color": {
+            "title": "#f5e0dc",
+            "output": "#cdd6f4",
+            "separator": "#6c7086"
+        },
+        "key": { "width": 14 }
+    },
+    "modules": [
+        "break",
+        { "type": "title", "format": " {6}{7}{8}" },
+        "break",
+        { "type": "custom", "key": "┌─ ⸜(｡˃ ᵕ ˂)⸝ system", "keyColor": "#cba6f7" },
+        { "type": "os", "key": "│  ✧ os", "keyColor": "#b4befe", "format": "{pretty-name}" },
+        { "type": "kernel", "key": "│  ✧ kernel", "keyColor": "#a6c8ff", "format": "{2}" },
+        { "type": "packages", "key": "│  ✧ packages", "keyColor": "#94b8ff", "format": "{pacman} pacman · {flatpak-all} flatpak" },
+        { "type": "shell", "key": "│  ✧ shell", "keyColor": "#82a8ff", "format": "{process-name} {version}" },
+        { "type": "wm", "key": "└─ (◕‿◕) wm", "keyColor": "#cba6f7", "format": "{pretty-name} {version}" },
+        "break",
+        { "type": "custom", "key": "┌─ ♡ terminal ♡", "keyColor": "#74c7ec" },
+        { "type": "terminal", "key": "│  ✧ terminal", "keyColor": "#6ec6e8", "format": "{process-name} {version}" },
+        { "type": "terminalfont", "key": "│  ✧ font", "keyColor": "#68c0e0" },
+        { "type": "theme", "key": "│  ✧ theme", "keyColor": "#62bad8" },
+        { "type": "cursor", "key": "└─ (≧◡≦) cursor", "keyColor": "#74c7ec", "format": "{theme} ({size}px)" },
+        "break",
+        { "type": "custom", "key": "┌─ ♪ hardware ♪", "keyColor": "#f38ba8" },
+        { "type": "host", "key": "│  ✧ host", "keyColor": "#f08898" },
+        { "type": "cpu", "key": "│  ✧ cpu", "keyColor": "#ed8690", "format": "{name}" },
+        { "type": "gpu", "key": "│  ✧ gpu", "keyColor": "#ea8488", "format": "{name}" },
+        { "type": "display", "key": "│  ✧ display", "keyColor": "#e78280", "format": "{width}x{height} {refresh-rate}Hz" },
+        { "type": "memory", "key": "│  ✧ ram", "keyColor": "#e48078" },
+        { "type": "disk", "key": "│  ✧ disk", "keyColor": "#e17e70", "format": "{size-used} / {size-total} {size-percentage-bar}" },
+        { "type": "uptime", "key": "└─ (๑•̀ㅂ•́)و uptime", "keyColor": "#f38ba8" },
+        "break",
+        { "type": "colors", "symbol": "circle", "block": { "width": 10 } },
+        "break",
+        { "type": "custom", "key": "· ˚ ⋆ ♡ ⋆ ˚ ·", "keyColor": "#45475a" }
+    ]
+}

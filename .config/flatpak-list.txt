@@ -1,0 +1,17 @@
+com.discordapp.Discord
+com.getpostman.Postman
+com.github.tchx84.Flatseal
+com.heroicgameslauncher.hgl
+com.obsproject.Studio
+com.rtosta.zapzap
+com.usebottles.bottles
+io.github.peazip.PeaZip
+io.github.shonebinu.Defuse
+io.github.tobagin.karere
+net.davidotek.pupgui2
+net.lutris.Lutris
+net.pcsx2.PCSX2
+org.jdownloader.JDownloader
+org.telegram.desktop
+org.vinegarhq.Sober
+us.zoom.Zoom
