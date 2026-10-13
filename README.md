@@ -64,7 +64,7 @@ Basada en [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) con mis 
 
 (っ◔◡◔)っ ♡ aquí va una captura o un GIF de mi escritorio ♡
 
-<!-- ![rice](screenshots/rice.gif) -->
+<img src="screenshots/rice.gif" width="720" alt="mi escritorio"/>
 
 </div>
 
