@@ -1,34 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=230&section=header&text=Mis%20dotfiles&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Arch%20Linux%20%2B%20Hyprland&descAlignY=58&descSize=20" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,45:7c3aed,100:e879f9&height=250&section=header&text=Mis%20dotfiles&fontSize=66&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=i%20use%20arch%20btw&descAlignY=60&descSize=22" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=F5A9C8&center=true&vCenter=true&width=520&lines=Hecho+con+mucho+cari%C3%B1o;Arch+Linux+%2B+Hyprland;Configurado+poco+a+poco;Mi+cuaderno+en+blanco+listo+para+usarse" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=620&lines=Arch+Linux+%2B+Hyprland;Hecho+con+mucho+cari%C3%B1o;Configurado+poco+a+poco;Mi+cuaderno+en+blanco+listo+para+usarse;I+use+Arch+btw" alt="typing"/>
 
-<br>
+<br><br>
 
-⸜(｡˃ ᵕ ˂)⸝ ♡ ⸜(｡˃ ᵕ ˂)⸝ ♡ ⸜(｡˃ ᵕ ˂)⸝ ♡ ⸜(｡˃ ᵕ ˂)⸝
+⸜(｡˃ ᵕ ˂)⸝ ♡ ⸜(｡˃ ᵕ ˂)⸝ ♡ ⸜(｡˃ ᵕ ˂)⸝ ♡ ⸜(｡˃ ᵕ ˂)⸝ ♡ ⸜(｡˃ ᵕ ˂)⸝
 
-<br>
+<br><br>
 
-![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
-![end-4](https://img.shields.io/badge/based_on-end--4-F5A9C8?style=for-the-badge)
-![fish](https://img.shields.io/badge/shell-fish-87CEEB?style=for-the-badge)
+<img src=".config/readme-assets/arch.svg" width="720" alt="fastfetch animado"/>
+
+<br><br>
+
+![arch](https://img.shields.io/badge/Arch_Linux-7C3AED?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1a1033)
+![hyprland](https://img.shields.io/badge/Hyprland-A78BFA?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=1a1033)
+![end-4](https://img.shields.io/badge/based_on-end--4-C084FC?style=for-the-badge&labelColor=1a1033)
+![fish](https://img.shields.io/badge/shell-fish-E879F9?style=for-the-badge&labelColor=1a1033)
+![kitty](https://img.shields.io/badge/term-kitty-F5D0FE?style=for-the-badge&labelColor=1a1033)
 
 </div>
 
 <br>
 
-## (≧◡≦) ♡ Sobre este repo
+## ⸜(｡˃ ᵕ ˂)⸝ ♡ Sobre este repo
 
 > ✧ Mi configuración de Arch Linux, armada con mucho amor ✧
-> (ᵔᴥᵔ) ya sabes, de esas cosas que uno ajusta "solo un ratito más"... (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)
+> (ᵔᴥᵔ) de esas cosas que uno ajusta "solo un ratito más"... (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)
 
-Está basada en [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) con mis propios ajustes ٩(◕‿◕)۶
+Basada en [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) con mis propios ajustes ٩(◕‿◕)۶
 
-<br>
+<div align="center">
 
-## ♪ (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Mi setup
+⋆˚✧ ─────────── ♡ ─────────── ✧˚⋆
+
+</div>
+
+## (≧◡≦) ✧ Mi setup
 
 <div align="center">
 
@@ -43,31 +52,45 @@ Está basada en [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) co
 
 </div>
 
-<br>
+<div align="center">
+
+⋆˚✧ ─────────── ♡ ─────────── ✧˚⋆
+
+</div>
 
 ## (๑•̀ㅂ•́)و✧ Capturas
 
 <div align="center">
 
-(っ◔◡◔)っ ♡ *aquí va una captura o un GIF de mi escritorio* ♡
+(っ◔◡◔)っ ♡ aquí va una captura o un GIF de mi escritorio ♡
 
 <!-- ![rice](screenshots/rice.gif) -->
 
 </div>
 
-<br>
+<div align="center">
 
-## ⸜(｡˃ ᵕ ˂)⸝ ✧ Qué incluye
+⋆˚✧ ─────────── ♡ ─────────── ✧˚⋆
+
+</div>
+
+## ଘ(੭ˊᵕˋ)੭ ✧ Qué incluye
 
 ```text
-(◕‿◕)  hypr/             Hyprland (mis cambios están en custom/)
-(≧◡≦)  illogical-impulse/ y matugen/   shell y colores de end-4
-(ﾉ´ヮ`)ﾉ kitty/ foot/ fish/ starship.toml   terminal y shell
-(๑>◡<๑) fastfetch/ cava/ fuzzel/ wlogout/ Kvantum/ gtk-*   apariencia
-(｡•̀ᴗ-)✧ pkglist / aur-pkglist / flatpak-list / code-extensions   paquetes
+(◕‿◕)    hypr/                       Hyprland (mis cambios están en custom/)
+(≧◡≦)    illogical-impulse/ matugen/ shell y colores de end-4
+(ﾉ´ヮ`)ﾉ  kitty/ foot/ fish/ starship  terminal y shell
+(๑>◡<๑)  fastfetch/ cava/ fuzzel/    apariencia y utilidades
+         wlogout/ Kvantum/ gtk-*
+(｡•̀ᴗ-)✧  pkglist, aur-pkglist,       listas de paquetes
+         flatpak-list, code-extensions
 ```
 
-<br>
+<div align="center">
+
+⋆˚✧ ─────────── ♡ ─────────── ✧˚⋆
+
+</div>
 
 ## ♡ ⸜(｡˃ ᵕ ˂)⸝ Cómo restaurarlo
 
@@ -92,7 +115,11 @@ xargs flatpak install -y < ~/.config/flatpak-list.txt
 xargs -n1 code --install-extension < ~/.config/code-extensions.txt
 ```
 
-<br>
+<div align="center">
+
+⋆˚✧ ─────────── ♡ ─────────── ✧˚⋆
+
+</div>
 
 ## (・ω・)ノ Notas
 
@@ -103,4 +130,10 @@ xargs -n1 code --install-extension < ~/.config/code-extensions.txt
 
 <div align="center">
 
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ gracias por pasar por aquí ✧ﾟ･:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1200&color=E879F9&center=true&vCenter=true&width=520&lines=Gracias+por+pasar+por+aqu%C3%AD;Que+tu+escritorio+siempre+quede+bonito;Hasta+la+pr%C3%B3xima" alt="gracias"/>
+
+⸜(｡˃ ᵕ ˂)⸝ ♡ (ﾉ◕ヮ◕)ﾉ ♡ ⸜(｡˃ ᵕ ˂)⸝
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,45:7c3aed,100:e879f9&height=150&section=footer" width="100%" alt="footer"/>
+
+</div>
